@@ -18,3 +18,5 @@ Visualize machine translation model - https://jalammar.github.io/visualizing-neu
 Bert,Elmo etc - https://jalammar.github.io/illustrated-bert/
 
 Attention and Augmented Recurrent Neural Networkd - https://distill.pub/2016/augmented-rnns/
+
+LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
