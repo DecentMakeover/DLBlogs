@@ -20,3 +20,5 @@ Bert,Elmo etc - https://jalammar.github.io/illustrated-bert/
 Attention and Augmented Recurrent Neural Networkd - https://distill.pub/2016/augmented-rnns/
 
 LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Word Embeddings- http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
