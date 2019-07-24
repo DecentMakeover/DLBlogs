@@ -38,6 +38,9 @@ Word Embeddings- http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 
 https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/
 
+# Other
+
+http://teleported.in/posts/cyclic-learning-rate/
 
 # Generative Adversarial Networks
 
